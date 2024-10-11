@@ -53,6 +53,7 @@ If you're making changes to a translation, please request a review from our prev
 | മലയാളം | [Malayalam](../translations/README.ml.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/3657426?v=4" alt="@yedhukrishnan">](https://github.com/yedhukrishnan) |
 | Burmese | [Burmese](../translations/README.mm_unicode.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/13135332?s=460&v=4" alt="@lwinkyawmyat" />](https://github.com/lwinkyawmyat) |
 | मराठी | [Marathi](../translations/README.mr.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/16685565?s=460&v=4" alt="@bantya" />](https://github.com/bantya) |
+hi i am Dhruv|https://github.com/Dhruvp18|
 | Español de México | [Spanish of Mexico](../translations/README.mx.md) | []() |
 | Bahasa Melayu | [Malay](../translations/README.my.md) | []() |
 | Nederlandse | [Dutch](../translations/README.nl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3897815?s=460&v=4" alt="@MJMajoor" />](https://github.com/MJMajoor) |
@@ -79,7 +80,8 @@ If you're making changes to a translation, please request a review from our prev
 | Universal Alien | [Universal Alien](../translations/README.un-aln.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/68442560?v=4" alt="@debjit-bw" />]() |
 | اردو | [Urdu](../translations/README.ur.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/4142795?s=460&v=4" alt="@Shhzdmrz" />](https://github.com/Shhzdmrz) |
 | Tiếng Việt | [Vietnamese](../translations/README.vn.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/12371875?s=460&v=4" alt="@tranlyvu" />](https://github.com/tranlyvu) |
-| Yorùbá | [Yorùbá](../translations/README.yor.md) | []() |
+| Yorùbá | [Yorùbá](../translati
+Feel free to let me know if you need further modifications!ons/README.yor.md) | []() |
 | 中文 | [Chinese (Simplified)](../translations/README.zh-cn.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/6414741?s=400&v=4" alt="@yuzhoujr" />](https://github.com/yuzhoujr) |
 | 中文 | [Chinese (Traditional)](../translations/README.zh-tw.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/27748281?s=460&v=4" alt="@WeiChienHsu" />](https://github.com/WeiChienHsu) |
 | Zulu | [Zulu](../translations/README.zu.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) []() |
