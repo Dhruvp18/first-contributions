@@ -59,5 +59,3 @@ Here’s a normalized version of the text without GitHub command examples:
 ## અન્ય સાધનોના ઉપયોગ કરતા ટ્યુટોરીયલ
 
 --- 
-
-Feel free to let me know if you need further modifications!
